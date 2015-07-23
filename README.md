@@ -4,10 +4,10 @@ Requirements:
 - Windows 2008 over
 
 Overview:
-- This is old script for monitoring when a user login into server. 
+- This is old script for monitoring server status when a user login into the server. 
 
 Features:
- * Logon User Information
+ * Login User Information
  * Remote computer name who logged-in and ping status when it possible
  * Current running process lists
  * Current running window services and try to find some Bad service.(some easy trick detection)
