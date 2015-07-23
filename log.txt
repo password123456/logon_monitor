@@ -1,0 +1,286 @@
+### LogFile: C:\Users\Administrator\Desktop\[2015.7.23-23.8]_AD01(DYNOKOREA+administrator_192.168.56.100].log
+
+-----2015-07-23 오후 11:08:30------------------------------------------------------------------------------------------------------------------------------
+[2015-07-23 오후 11:08:30] - Login Time: 2015-07-23 오후 11:08:30
+[2015-07-23 오후 11:08:30] - Login Server / IP: AD01.DYNOKOREA / 192.168.56.100
+[2015-07-23 오후 11:08:30] - Login Account: DYNOKOREA\administrator
+[2015-07-23 오후 11:08:30] - Remote Login From: %CLIENTNAME%  /  IPAddress: [ Remote Login System Looks Up fail.! Check it Manually.! ]
+[2015-07-23 오후 11:08:33] - Administrators Account Lists: (DYNOKOREA\Administrator),(DYNOKOREA\Enterprise Admins),(DYNOKOREA\Domain Admins),
+[2015-07-23 오후 11:08:33] - Process Information
+[2015-07-23 오후 11:08:33] - [ProcessName] , [PID] , [ProcessOwner] , [ProcessPath]
+[2015-07-23 오후 11:08:33] System Idle Process , 0 ,  N/A  , 
+
+[2015-07-23 오후 11:08:33] System , 4 ,  N/A  , 
+[2015-07-23 오후 11:08:33] smss.exe , 252 , NT AUTHORITY\SYSTEM , 
+[2015-07-23 오후 11:08:33] csrss.exe , 328 , NT AUTHORITY\SYSTEM , C:\Windows\system32\csrss.exe
+[2015-07-23 오후 11:08:33] csrss.exe , 368 , NT AUTHORITY\SYSTEM , C:\Windows\system32\csrss.exe
+[2015-07-23 오후 11:08:33] wininit.exe , 376 , NT AUTHORITY\SYSTEM , C:\Windows\system32\wininit.exe
+[2015-07-23 오후 11:08:33] winlogon.exe , 404 , NT AUTHORITY\SYSTEM , C:\Windows\system32\winlogon.exe
+[2015-07-23 오후 11:08:33] services.exe , 464 , NT AUTHORITY\SYSTEM , C:\Windows\system32\services.exe
+[2015-07-23 오후 11:08:33] lsass.exe , 472 , NT AUTHORITY\SYSTEM , C:\Windows\system32\lsass.exe
+[2015-07-23 오후 11:08:33] lsm.exe , 480 , NT AUTHORITY\SYSTEM , C:\Windows\system32\lsm.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 644 , NT AUTHORITY\SYSTEM , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] VBoxService.exe , 716 , NT AUTHORITY\SYSTEM , C:\Windows\system32\VBoxService.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 780 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 868 , NT AUTHORITY\LOCAL SERVICE , C:\Windows\System32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 908 , NT AUTHORITY\SYSTEM , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 964 , NT AUTHORITY\LOCAL SERVICE , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 1016 , NT AUTHORITY\SYSTEM , C:\Windows\System32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 276 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 1032 , NT AUTHORITY\LOCAL SERVICE , C:\Windows\system32\svchost.exe
+[2015-07-23 오후 11:08:33] Microsoft.ActiveDirectory.WebServices.exe , 1352 , NT AUTHORITY\SYSTEM , C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe
+[2015-07-23 오후 11:08:33] dfsrs.exe , 1412 , NT AUTHORITY\SYSTEM , C:\Windows\system32\DFSRs.exe
+[2015-07-23 오후 11:08:33] dns.exe , 1444 , NT AUTHORITY\SYSTEM , C:\Windows\system32\dns.exe
+[2015-07-23 오후 11:08:33] ismserv.exe , 1472 , NT AUTHORITY\SYSTEM , C:\Windows\System32\ismserv.exe
+[2015-07-23 오후 11:08:33] svchost.exe , 1640 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\System32\svchost.exe
+[2015-07-23 오후 11:08:33] vds.exe , 1808 , NT AUTHORITY\SYSTEM , C:\Windows\System32\vds.exe
+[2015-07-23 오후 11:08:33] msdtc.exe , 144 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\System32\msdtc.exe
+[2015-07-23 오후 11:08:33] sppsvc.exe , 1652 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\system32\sppsvc.exe
+[2015-07-23 오후 11:08:33] TrustedInstaller.exe , 1776 , NT AUTHORITY\SYSTEM , C:\Windows\servicing\TrustedInstaller.exe
+[2015-07-23 오후 11:08:33] taskhost.exe , 2344 , DYNOKOREA\administrator , C:\Windows\system32\taskhost.exe
+[2015-07-23 오후 11:08:33] dwm.exe , 2432 , DYNOKOREA\administrator , C:\Windows\system32\Dwm.exe
+[2015-07-23 오후 11:08:33] explorer.exe , 2444 , DYNOKOREA\administrator , C:\Windows\Explorer.EXE
+[2015-07-23 오후 11:08:33] VBoxTray.exe , 2540 , DYNOKOREA\administrator , C:\Windows\System32\VBoxTray.exe
+[2015-07-23 오후 11:08:33] mmc.exe , 2668 , DYNOKOREA\administrator , C:\Windows\system32\mmc.exe
+[2015-07-23 오후 11:08:33] VBoxWindowsAdditions-amd64.exe , 2172 , DYNOKOREA\administrator , D:\VBoxWindowsAdditions-amd64.exe
+[2015-07-23 오후 11:08:33] mmc.exe , 2116 , DYNOKOREA\administrator , C:\Windows\system32\mmc.exe
+[2015-07-23 오후 11:08:33] csrss.exe , 1184 , NT AUTHORITY\SYSTEM , C:\Windows\system32\csrss.exe
+[2015-07-23 오후 11:08:33] winlogon.exe , 1596 , NT AUTHORITY\SYSTEM , C:\Windows\system32\winlogon.exe
+[2015-07-23 오후 11:08:33] LogonUI.exe , 2392 , NT AUTHORITY\SYSTEM , C:\Windows\system32\LogonUI.exe
+[2015-07-23 오후 11:08:33] dllhost.exe , 2648 , NT AUTHORITY\SYSTEM , C:\Windows\system32\DllHost.exe
+[2015-07-23 오후 11:08:33] dllhost.exe , 2216 , NT AUTHORITY\SYSTEM , C:\Windows\system32\DllHost.exe
+[2015-07-23 오후 11:08:33] wscript.exe , 2484 , DYNOKOREA\administrator , C:\Windows\System32\wscript.exe
+[2015-07-23 오후 11:08:33] WmiPrvSE.exe , 2040 , NT AUTHORITY\NETWORK SERVICE , C:\Windows\system32\wbem\wmiprvse.exe
+
+[2015-07-23 오후 11:08:33] - Entire Service Status Check
+[2015-07-23 오후 11:08:33] - [Name] , [Path] , [RunAccount] , [RegDte] , [RunStatus]
+[2015-07-23 오후 11:08:33] Active Directory Web Services , C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Application Experience , C:\Windows\system32\svchost.exe -k netsvcs , localSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Application Layer Gateway Service , C:\Windows\System32\alg.exe , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Application Identity , C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation , NT Authority\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Application Information , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Application Management , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Audio Endpoint Builder , C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Audio , C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Base Filtering Engine , C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Background Intelligent Transfer Service , C:\Windows\System32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Computer Browser , C:\Windows\System32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Certificate Propagation , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Microsoft .NET Framework NGEN v2.0.50727_X86 , C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Microsoft .NET Framework NGEN v2.0.50727_X64 , C:\Windows\Microsoft.NET\Framework64\v2.0.50727\mscorsvw.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] COM+ System Application , C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235} , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Cryptographic Services , C:\Windows\system32\svchost.exe -k NetworkService , NT Authority\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] DCOM Server Process Launcher , C:\Windows\system32\svchost.exe -k DcomLaunch , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Disk Defragmenter , C:\Windows\system32\svchost.exe -k defragsvc , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] DFS Namespace , C:\Windows\system32\dfssvc.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] DFS Replication , C:\Windows\system32\DFSRs.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] DHCP Client , C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted , NT Authority\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] DNS Server , C:\Windows\system32\dns.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] DNS Client , C:\Windows\system32\svchost.exe -k NetworkService , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Wired AutoConfig , C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Diagnostic Policy Service , C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Extensible Authentication Protocol , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Encrypting File System (EFS) , C:\Windows\System32\lsass.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Event Log , C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] COM+ Event System , C:\Windows\system32\svchost.exe -k LocalService , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Microsoft Fibre Channel Platform Registration Service , C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Function Discovery Provider Host , C:\Windows\system32\svchost.exe -k LocalService , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Function Discovery Resource Publication , C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Font Cache Service , C:\Windows\system32\svchost.exe -k LocalService , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Windows Presentation Foundation Font Cache 3.0.0.0 , C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe , NT Authority\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Group Policy Client , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Human Interface Device Access , C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Health Key and Certificate Management , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows CardSpace , "C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\infocard.exe" , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] IKE and AuthIP IPsec Keying Modules , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] PnP-X IP Bus Enumerator , C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] IP Helper , C:\Windows\System32\svchost.exe -k NetSvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Intersite Messaging , C:\Windows\System32\ismserv.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Kerberos Key Distribution Center , C:\Windows\System32\lsass.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] CNG Key Isolation , C:\Windows\system32\lsass.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] KtmRm for Distributed Transaction Coordinator , C:\Windows\System32\svchost.exe -k NetworkServiceAndNoImpersonation , NT AUTHORITY\NetworkService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Server , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Workstation , C:\Windows\System32\svchost.exe -k NetworkService , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Link-Layer Topology Discovery Mapper , C:\Windows\System32\svchost.exe -k LocalService , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] TCP/IP NetBIOS Helper , C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Multimedia Class Scheduler , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Firewall , C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork , NT Authority\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Distributed Transaction Coordinator , C:\Windows\System32\msdtc.exe , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Microsoft iSCSI Initiator Service , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Windows Installer , C:\Windows\system32\msiexec.exe /V , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Network Access Protection Agent , C:\Windows\System32\svchost.exe -k NetworkService , NT AUTHORITY\NetworkService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Netlogon , C:\Windows\system32\lsass.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Network Connections , C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Network List Service , C:\Windows\System32\svchost.exe -k LocalService , NT AUTHORITY\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Net.Tcp Port Sharing Service , "C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe" , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Network Location Awareness , C:\Windows\System32\svchost.exe -k NetworkService , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Network Store Interface Service , C:\Windows\system32\svchost.exe -k LocalService , NT Authority\LocalService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Active Directory Domain Services , C:\Windows\System32\lsass.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] File Replication , C:\Windows\system32\ntfrs.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Performance Counter DLL Host , C:\Windows\SysWow64\perfhost.exe , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Performance Logs & Alerts , C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Plug and Play , C:\Windows\system32\svchost.exe -k DcomLaunch , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] IPsec Policy Agent , C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted , NT Authority\NetworkService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Power , C:\Windows\system32\svchost.exe -k DcomLaunch , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] User Profile Service , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Protected Storage , C:\Windows\system32\lsass.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Remote Access Auto Connection Manager , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Remote Access Connection Manager , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Routing and Remote Access , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Remote Registry , C:\Windows\system32\svchost.exe -k regsvc , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] RPC Endpoint Mapper , C:\Windows\system32\svchost.exe -k RPCSS , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Remote Procedure Call (RPC) Locator , C:\Windows\system32\locator.exe , NT AUTHORITY\NetworkService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Remote Procedure Call (RPC) , C:\Windows\system32\svchost.exe -k rpcss , NT AUTHORITY\NetworkService ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Resultant Set of Policy Provider , C:\Windows\system32\RSoPProv.exe , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Special Administration Console Helper , C:\Windows\System32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Security Accounts Manager , C:\Windows\system32\lsass.exe , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Smart Card , C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation , NT AUTHORITY\LocalService ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Task Scheduler , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Smart Card Removal Policy , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] Secondary Logon , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+[2015-07-23 오후 11:08:33] System Event Notification Service , C:\Windows\system32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Remote Desktop Configuration , C:\Windows\System32\svchost.exe -k netsvcs , localSystem ,  N/A  , Running
+[2015-07-23 오후 11:08:33] Internet Connection Sharing (ICS) , C:\Windows\System32\svchost.exe -k netsvcs , LocalSystem ,  N/A  , Stopped
+
+[2015-07-23 오후 11:08:34] - Currently Connecting Session List
+[2015-07-23 오후 11:08:34] - [session_time] , [logon_ID] , [Account] , [Lopgon_Type] , [Authtype] , [Logon_status] 
+[2015-07-23 오후 11:08:34] 2015-07-23 오후 11:01:33 , 723160 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-07-23 오후 10:58:19 , 487417 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:44:37 , 109973 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-07-23 오후 11:01:32 , 722674 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:44:35 , 107654 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-07-23 오후 11:00:39 , 631315 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:44:37 , 110203 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:44:35 , 107551 , SYSTEM , Network Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:47:57 , 212471 , administrator , Console Logon Session , Negotiate , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:47:57 , 212440 , administrator , Console Logon Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-07-23 오후 11:08:30 , 826483 , administrator , Console Logon Session , Kerberos , OK
+[2015-07-23 오후 11:08:34] 2015-06-27 오후 12:43:49 , 70268 , ANONYMOUS LOGON , Network Session , NTLM , OK
+
+[2015-07-23 오후 11:08:35] - Remote Connecteduser Ping Status:
+ping 요청에서 %clientname% 호스트를 찾을 수 없습니다. 이름을 확인하고 다시 시도하십시오.
+
+[2015-07-23 오후 11:08:37] - Current Login User List
+ 사용자 이름           세션 이름          ID  상태    유휴 시간  로그온 시간
+>administrator         console             1  활성        none   2015-06-27 오후 12:48
+
+[2015-07-23 오후 11:08:37] - TaskList 
+이미지 이름                    PID 세션 이름              세션#  메모리 사용
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0        368 K
+smss.exe                       252 Services                   0      1,192 K
+csrss.exe                      328 Services                   0      6,748 K
+csrss.exe                      368 Console                    1     10,212 K
+wininit.exe                    376 Services                   0      5,092 K
+winlogon.exe                   404 Console                    1      6,368 K
+services.exe                   464 Services                   0      9,012 K
+lsass.exe                      472 Services                   0     32,028 K
+lsm.exe                        480 Services                   0      6,192 K
+svchost.exe                    644 Services                   0      9,584 K
+VBoxService.exe                716 Services                   0      5,680 K
+svchost.exe                    780 Services                   0      7,780 K
+svchost.exe                    868 Services                   0     13,276 K
+svchost.exe                    908 Services                   0    734,260 K
+svchost.exe                    964 Services                   0      9,544 K
+svchost.exe                   1016 Services                   0     11,124 K
+svchost.exe                    276 Services                   0     17,828 K
+svchost.exe                   1032 Services                   0     12,248 K
+Microsoft.ActiveDirectory     1352 Services                   0     38,160 K
+dfsrs.exe                     1412 Services                   0     18,164 K
+dns.exe                       1444 Services                   0     85,644 K
+ismserv.exe                   1472 Services                   0      6,008 K
+svchost.exe                   1640 Services                   0      7,424 K
+vds.exe                       1808 Services                   0      8,388 K
+msdtc.exe                      144 Services                   0      7,712 K
+sppsvc.exe                    1652 Services                   0      7,580 K
+TrustedInstaller.exe          1776 Services                   0      8,352 K
+taskhost.exe                  2344 Console                    1     11,792 K
+
+
+[2015-07-23 오후 11:08:37] - Currently Open ports
+
+활성 연결
+
+  프로토콜  로컬 주소              외부 주소              상태            PID
+  TCP    0.0.0.0:88             0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       780
+  TCP    0.0.0.0:389            0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:464            0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:593            0.0.0.0:0              LISTENING       780
+  TCP    0.0.0.0:636            0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:3268           0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:3269           0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1640
+  TCP    0.0.0.0:5722           0.0.0.0:0              LISTENING       1412
+  TCP    0.0.0.0:9389           0.0.0.0:0              LISTENING       1352
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       376
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       868
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       908
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:49158          0.0.0.0:0              LISTENING       472
+  TCP    0.0.0.0:49175          0.0.0.0:0              LISTENING       464
+  TCP    0.0.0.0:49176          0.0.0.0:0              LISTENING       1444
+  TCP    127.0.0.1:53           0.0.0.0:0              LISTENING       1444
+  TCP    127.0.0.1:389          127.0.0.1:49166        ESTABLISHED     472
+  TCP    127.0.0.1:389          127.0.0.1:49169        ESTABLISHED     472
+  TCP    127.0.0.1:389          127.0.0.1:63043        ESTABLISHED     472
+  TCP    127.0.0.1:49166        127.0.0.1:389          ESTABLISHED     1472
+  TCP    127.0.0.1:49169        127.0.0.1:389          ESTABLISHED     1472
+  TCP    127.0.0.1:63043        127.0.0.1:389          ESTABLISHED     1444
+  TCP    192.168.0.14:53        0.0.0.0:0              LISTENING       1444
+  TCP    192.168.0.14:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.14:389       192.168.0.14:49256     ESTABLISHED     472
+  TCP    192.168.0.14:389       192.168.0.14:49455     ESTABLISHED     472
+  TCP    192.168.0.14:389       192.168.0.14:63069     ESTABLISHED     472
+  TCP    192.168.0.14:389       192.168.0.14:63076     ESTABLISHED     472
+  TCP    192.168.0.14:3389      192.168.0.5:3049       ESTABLISHED     1640
+  TCP    192.168.0.14:49256     192.168.0.14:389       ESTABLISHED     2116
+  TCP    192.168.0.14:49455     192.168.0.14:389       ESTABLISHED     2116
+  TCP    192.168.0.14:63069     192.168.0.14:389       ESTABLISHED     1412
+  TCP    192.168.0.14:63076     192.168.0.14:389       ESTABLISHED     1412
+  TCP    192.168.56.100:53      0.0.0.0:0              LISTENING       1444
+  TCP    192.168.56.100:139     0.0.0.0:0              LISTENING       4
+  TCP    [::]:88                [::]:0                 LISTENING       472
+  TCP    [::]:135               [::]:0                 LISTENING       780
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:464               [::]:0                 LISTENING       472
+  TCP    [::]:593               [::]:0                 LISTENING       780
+  TCP    [::]:3389              [::]:0                 LISTENING       1640
+  TCP    [::]:5722              [::]:0                 LISTENING       1412
+  TCP    [::]:9389              [::]:0                 LISTENING       1352
+  TCP    [::]:49152             [::]:0                 LISTENING       376
+  TCP    [::]:49153             [::]:0                 LISTENING       868
+  TCP    [::]:49154             [::]:0                 LISTENING       908
+  TCP    [::]:49155             [::]:0                 LISTENING       472
+  TCP    [::]:49157             [::]:0                 LISTENING       472
+  TCP    [::]:49158             [::]:0                 LISTENING       472
+  TCP    [::]:49175             [::]:0                 LISTENING       464
+  TCP    [::]:49176             [::]:0                 LISTENING       1444
+  TCP    [::1]:53               [::]:0                 LISTENING       1444
+  TCP    [::1]:49158            [::1]:49188            ESTABLISHED     472
+  TCP    [::1]:49158            [::1]:63063            ESTABLISHED     472
+  TCP    [::1]:49188            [::1]:49158            ESTABLISHED     1412
+  TCP    [::1]:63063            [::1]:49158            ESTABLISHED     472
+  TCP    [::1]:63095            [::1]:135              TIME_WAIT       0
+  UDP    0.0.0.0:123            *:*                                    964
+  UDP    0.0.0.0:5355           *:*                                    276
+  UDP    0.0.0.0:52382          *:*                                    1444
+  UDP    0.0.0.0:52384          *:*                                    1444
+  UDP    0.0.0.0:52422          *:*                                    1444
+  UDP    0.0.0.0:52423          *:*                                    1444
+  UDP    0.0.0.0:52424          *:*                                    1444
+  UDP    0.0.0.0:52468          *:*                                    1444
+  UDP    0.0.0.0:52478          *:*                                    1444
+  UDP    0.0.0.0:52479          *:*                                    1444
+  UDP    192.168.56.100:389     *:*                                    472
+  UDP    192.168.56.100:464     *:*                                    472
+  UDP    [::]:123               *:*                                    964
+  UDP    [::]:52383             *:*                                    1444
+  UDP    [::1]:53               *:*                                    1444
+  UDP    [::1]:52381            *:*                                    1444
+
+----End of Log-------------------------------------------------------------------------------------------------------------------------------
+
