@@ -18,4 +18,4 @@ Features:
 
 blah-blah-blah:
 - I think this may be classical script to monitoring. but it may be useful someone who needs.
-- It hope be helpful to other on than kept in my crap pc.
+- It hope be helpful to other one than kept in my crap pc.
